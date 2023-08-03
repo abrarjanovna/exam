@@ -1,0 +1,81 @@
+@media screen and (max-width: 769px) {
+  img.home{
+    max-width: 768px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .company{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 700px;
+    width: 100%;
+  }
+
+  .card-text{
+    max-width: 700px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+  }
+  .pixsel{
+    max-width: 760px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .company .card-text ul li{
+    display: none;
+  }
+
+  .container .pictures{
+    display: flex;
+    max-width: 760px;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }
+
+  .container .pictures .cards{
+    max-width: 500px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 80px;
+  }
+
+  .container .pictures .cards .card_1{ 
+    margin: 60px auto;
+    max-width: 200px;
+    width: 100%;
+  }
+
+  .container .pictures .cards .card_2{ 
+    margin: 60px auto;
+    max-width: 200px;
+    width: 100%;
+  }
+
+  .container .pictures .cards .card_3{ 
+    margin: 0 auto;
+    max-width: 200px;
+    width: 100%;
+  }
+
+  .container .pictures .cards .card_4{ 
+    margin: 0 auto;
+    max-width: 200px;
+    width: 100%;
+  }
+
+  .container .econom{
+    max-width: 600px;
+    width: 100%;
+  } 
+
+  .container .pixsel{
+    max-width: 600px;
+    width: 100%;
+  }
+};

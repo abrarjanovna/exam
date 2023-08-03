@@ -1,0 +1,14 @@
+.container{
+    .pictures-text{
+        margin-top: 100px;
+        h3{
+            color: var(--dark-grey, #101D23);
+            font-family: "Montserrat";
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 135%; /* 40.5px */
+            letter-spacing: 0.5px;
+        }
+    }
+}
